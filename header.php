@@ -3,7 +3,7 @@
 <head>
 	<meta name="viewport" content="width=device-width">
 	<title>Brandify User Guide</title>
-	<link href="static/css/base.less" rel="stylesheet/less" type="text/less" media="screen">
+	<link href="public/assets/stylesheets/style.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
