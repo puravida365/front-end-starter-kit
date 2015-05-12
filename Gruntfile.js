@@ -20,7 +20,7 @@ module.exports = function(grunt) {
     },
     js_frontend: {
       src: [
-        './bower_components/jquery/jquery.js',
+        './bower_components/jquery/dist/jquery.js',
         './bower_components/bootstrap/dist/js/bootstrap.js',
         './static/js/main.js'
       ],
@@ -41,7 +41,7 @@ module.exports = function(grunt) {
       js_frontend: {
         files: [
           //watched files
-          './bower_components/jquery/jquery.js',
+          './bower_components/jquery/dist/jquery.js',
           './bower_components/bootstrap/dist/js/bootstrap.js',
           './static/js/main.js'
           ],   
